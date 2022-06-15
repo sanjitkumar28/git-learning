@@ -1,1 +1,1 @@
-i am a.text in func
+i am a.text in functionality
