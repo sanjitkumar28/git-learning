@@ -1,2 +1,3 @@
 i am a.text in functionality
 i am a.text in funcs
+i made some changes
