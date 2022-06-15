@@ -1,1 +1,1 @@
-i am a .text in master
+i am a.text in func
